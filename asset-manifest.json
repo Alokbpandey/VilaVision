@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.4adac9c0.js",
-    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.4adac9c0.js.map": "/static/js/main.4adac9c0.js.map",
-    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/VilaVision/static/css/main.3566f1df.css",
+    "main.js": "/VilaVision/static/js/main.49248008.js",
+    "static/js/488.8143550c.chunk.js": "/VilaVision/static/js/488.8143550c.chunk.js",
+    "index.html": "/VilaVision/index.html",
+    "main.3566f1df.css.map": "/VilaVision/static/css/main.3566f1df.css.map",
+    "main.49248008.js.map": "/VilaVision/static/js/main.49248008.js.map",
+    "488.8143550c.chunk.js.map": "/VilaVision/static/js/488.8143550c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.4adac9c0.js"
+    "static/css/main.3566f1df.css",
+    "static/js/main.49248008.js"
   ]
 }
