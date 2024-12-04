@@ -1,0 +1,2 @@
+2024-11-22 13:57:22,517 ERROR: NVIDIA API error: 400 Client Error: Bad Request for url: https://ai.api.nvidia.com/v1/vlm/nvidia/vila [in C:\Users\alokp\my-react-app\backend\app.py:148]
+2024-11-22 13:57:22,518 DEBUG: Cleaned up file: uploads\1732264041_Screenshot_2024-08-12_163259.png [in C:\Users\alokp\my-react-app\backend\app.py:89]
