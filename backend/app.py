@@ -18,6 +18,8 @@ from dataclasses import dataclass, field
 from http import HTTPStatus
 from datetime import datetime
 import shutil
+from waitress import serve
+import app 
 
 app = Flask(__name__)
 
@@ -94,7 +96,7 @@ CORS(app)
 app.wsgi_app = ProxyFix(app.wsgi_app, x_proto=1, x_host=1)
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=5000)
+    app.run(debug=True, host="0.0.0.0", port=8000)
 
 
 # Load configuration
